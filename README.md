@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋🤓
+
+- 🌱 I’m currently learning ...
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/feffbd72-4fd4-4902-9419-543df401e24b/thumbnail" >
+</p>
 
 <!--
 **rasmusskriver/rasmusskriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
